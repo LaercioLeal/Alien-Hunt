@@ -30,3 +30,5 @@ Não possui história e nem horas de gameplay, este é um jogo pra aqueles que p
 + Game Start Background: [Rawdanitsu](https://opengameart.org/content/space-backgrounds-8);
 + Gun Sound: [Q009](https://opengameart.org/content/q009s-weapon-sounds);
 + Gun Reload Sound: [SpringySpringo](https://opengameart.org/content/gun-reload-sounds);
+
+**Made With:** [GameMaker](https://gamemaker.io/pt-BR)
