@@ -11,6 +11,7 @@
     {"id":{"name":"spr_bgEndGame","path":"sprites/spr_bgEndGame/spr_bgEndGame.yy",},"order":2,},
     {"id":{"name":"obj_startMenu","path":"objects/obj_startMenu/obj_startMenu.yy",},"order":0,},
     {"id":{"name":"Info","path":"rooms/Info/Info.yy",},"order":3,},
+    {"id":{"name":"spr_icon","path":"sprites/spr_icon/spr_icon.yy",},"order":2,},
     {"id":{"name":"savingRecords","path":"scripts/savingRecords/savingRecords.yy",},"order":0,},
     {"id":{"name":"spr_glassPanelTab","path":"sprites/spr_glassPanelTab/spr_glassPanelTab.yy",},"order":6,},
     {"id":{"name":"spr_blueMetalPanel","path":"sprites/spr_blueMetalPanel/spr_blueMetalPanel.yy",},"order":4,},
@@ -54,9 +55,9 @@
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
     {"name":"macOS","path":"options/mac/options_mac.yy",},
-    {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -102,6 +103,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.11.1.56",
   },
 }
